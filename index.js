@@ -68,3 +68,23 @@ console.log(userInfo(userProfile)); */
 
 
 //закончил на 07:03:20
+
+
+/* const personOne = {
+  name: 'Alex',
+  age: 28
+};
+
+function increasePersonAge(person) {
+  const updatePerson = Object.assign({}, person);
+  updatePerson.age += 18;
+  return updatePerson;
+}
+
+const updatePersonOne = increasePersonAge(personOne);
+
+console.log(personOne);
+console.log(personOne.age);
+console.log(updatePersonOne);
+console.log(updatePersonOne.age); */
+
