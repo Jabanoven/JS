@@ -87,4 +87,3 @@ console.log(personOne);
 console.log(personOne.age);
 console.log(updatePersonOne);
 console.log(updatePersonOne.age); */
-

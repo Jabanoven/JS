@@ -16,5 +16,3 @@ let first = obj.product; // 1 способ найти значение по кл
 
 let prop = 'details';
 let result = obj[prop]; // 3 способ можно обратиться через созданную переменную
-
-console.log(obj, first, second, result);
