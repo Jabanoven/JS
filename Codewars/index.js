@@ -92,3 +92,25 @@ booleanToString(true);
 
 
 /*  */
+
+/* function removeSmallest(numbers) {
+  let arr = Math.min(...numbers);
+
+  return arr;
+}
+
+console.log(removeSmallest([1,2,3,4,5,])); */
+
+/* 
+function printerError(s) {
+  // your code
+  var count = 0;
+  for(var i = 0; i < s.length; i++) {
+    if (s[i] > "m") {
+      count++;
+    }
+  }
+  return `${count}/${s.length}`;
+}
+console.log(printerError("aaaaaaaaaaadssddsdsaasadasdasdwiqidqiwfkksllflmfmfmaaabbbbbbbbbbbbbbbbbbmmmmmmmmmmmmmmmmmmmxyz")); */
+
