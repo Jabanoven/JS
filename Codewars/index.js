@@ -83,3 +83,12 @@ console.log(access); */
 
 console.log(sumTwoSmallestNumbers([10, 11, 9, 3, 22])); / */ /* 13 */
 
+/* функция, которая возвращает булевое значение в видео строки
+function booleanToString(b){
+  return b.toString();
+}
+booleanToString(true);
+*/
+
+
+/*  */
